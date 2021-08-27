@@ -5,12 +5,12 @@ export default function Home() {
     <>
       <Head>
         <title>
-          inicio
+          Home
+
+          
         </title>
       </Head>
-    <h1>
-      Hello world
-    </h1>
+    
     </>
   )
 }
